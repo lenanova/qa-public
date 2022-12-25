@@ -1,0 +1,4 @@
+name, announcement, show_announcement, suite_mode, status_code, error_message, response_time
+"Project-1", "Announcement-1", false, 4, 400, "Field :suite_mode is not a supported enum value", 350
+"Project-2", "Announcement-2", 12, 1, 400, "Field :show_announcement is not a valid boolean.", 300
+"Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortorr", "Announcement-3", true, 2, 400, "Field :name is too long (250 characters at most).", 300
