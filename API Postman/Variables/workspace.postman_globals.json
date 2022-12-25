@@ -1,0 +1,15 @@
+{
+	"id": "8212d9a6-414b-4c2a-8d05-d157281ab3d8",
+	"values": [
+		{
+			"key": "api",
+			"value": "index.php?/api/v2",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-12-25T00:02:13.003Z",
+	"_postman_exported_using": "Postman/10.5.2"
+}
